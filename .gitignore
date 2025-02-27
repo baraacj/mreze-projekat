@@ -1,0 +1,67 @@
+# Visual Studio fajlovi i folderi
+.vs/
+.vshistory/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnLaunch.json
+
+# Build folderi
+**/bin/
+**/obj/
+
+# Visual Studio Code fajlovi
+.vscode/
+
+# Privremeni fajlovi
+*.cache
+*.log
+*.tmp
+
+# ReSharper fajlovi
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider fajlovi
+.idea/
+
+# Backup i history fajlovi
+**/.vshistory/
+**/*.backup.json
+
+# SQLite baze i fajlovi koji se automatski generišu
+*.sqlite
+*.dtbcache.v2
+*.vsidx
+*.futdcache.v2
+*.wsuo
+
+# User-specific fajlovi
+*.suo
+*.user
+*.userprefs
+
+# Test rezultati
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Paket menadžeri
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS-specifični fajlovi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Rider, JetBrains
+.idea/
+
+# Visual Studio Project Evaluation
+**/ProjectEvaluation/
